@@ -1,0 +1,39 @@
+========================================
+Job ID: 22796
+Node:   mc3-gpu-5-3
+Start:  Sun Mar  1 10:05:17 PST 2026
+CPUs:   8
+========================================
+  dx=0.000125 divide [0.025, 0.009, 0.005] exactly
+Simulation time step size dt: 0.000125 [s]
+ time step subdivision: 0
+Total simulation time: 0.025 [s]
+Number of simulation time steps: 200
+
+Simulation domain size Lx, Ly, Lz: 0.025, 0.009, 0.005 [m]
+Mesh size dx, dy, dz: 0.000125, 0.000125, 0.000125 [m]
+Number of grid points nx, ny, nz: 200, 72, 40
+FE type: P, polynomial degree: 1
+Surface refinement: disabled
+
+Laser path: [0.0, -0.0075, 0.0, 0.025, 0.0075, 0.0, 250.0]
+Thermal conductivity: 6.7 [W/(m*K)]
+Specific heat: 0.56 [J/(g*K)]
+Density: 4.43e+06 [g/m^3]
+Initial temperature: 300 [K]
+Laser scan speed: 6.00e-01, 0.00e+00 m/s
+Laser power: 250.0 W, absorptivity: 1.00, absorbed: 250.0 W
+Total simulation time period: 2.50e-02 s
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+
+Starting simulation... results saved to output_single_track_dx0.000125_sigma2e-04/T.pvd
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Calling FFC just-in-time (JIT) compiler, this may take some time.
+Simulation complete!
+========================================
+End:    Sun Mar  1 10:11:05 PST 2026
+========================================
